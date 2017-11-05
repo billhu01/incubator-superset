@@ -42,7 +42,7 @@ def init():
     help="Specify the port on which to run the web server")
 @manager.option(
     '-w', '--workers',
-    default=config.get("SUPERSET_WORKERS", 2),
+    default=config.get("SUPERSET_WORKERS", 6),
     help="Number of gunicorn web server workers to fire up")
 @manager.option(
     '-t', '--timeout', default=config.get("SUPERSET_WEBSERVER_TIMEOUT"),
@@ -82,6 +82,7 @@ def runserver(debug, no_reload, address, port, timeout, workers, socket):
         print(Fore.GREEN + "Starting server with command: ")
         print(Fore.YELLOW + cmd)
         print(Style.RESET_ALL)
+        print("bill test port:{}".format(config.get("SUPERSET_WEBSERVER_PORT")))
         Popen(cmd, shell=True).wait()
 
 

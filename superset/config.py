@@ -57,7 +57,8 @@ SECRET_KEY = '\2\1thisismyscretkey\1\2\e\y\y\h'  # noqa
 
 # The SQLAlchemy connection string.
 SQLALCHEMY_DATABASE_URI = 'sqlite:///' + os.path.join(DATA_DIR, 'superset.db')
-# SQLALCHEMY_DATABASE_URI = 'mysql://myapp@localhost/myapp'
+#SQLALCHEMY_DATABASE_URI = 'mysql://root:$Tart123@192.168.100.106:3306/superset'
+#SQLALCHEMY_DATABASE_URI = 'mysql://root:$Tart123@172.16.9.28:3306/superset'
 # SQLALCHEMY_DATABASE_URI = 'postgresql://root:password@localhost/myapp'
 
 # In order to hook up a custom password store for all SQLACHEMY connections
@@ -95,7 +96,7 @@ ENABLE_PROXY_FIX = False
 APP_NAME = "Superset"
 
 # Uncomment to setup an App icon
-APP_ICON = "/static/assets/images/superset-logo@2x.png"
+APP_ICON = "/static/assets/images/logo.png"
 
 # Druid query timezone
 # tz.tzutc() : Using utc timezone
@@ -152,16 +153,16 @@ PUBLIC_ROLE_LIKE_GAMMA = False
 # Babel config for translations
 # ---------------------------------------------------
 # Setup default language
-BABEL_DEFAULT_LOCALE = 'en'
+BABEL_DEFAULT_LOCALE = 'zh'
 # Your application default translation path
 BABEL_DEFAULT_FOLDER = 'babel/translations'
 # The allowed translation for you app
 LANGUAGES = {
     'en': {'flag': 'us', 'name': 'English'},
-    'it': {'flag': 'it', 'name': 'Italian'},
-    'fr': {'flag': 'fr', 'name': 'French'},
+    # 'it': {'flag': 'it', 'name': 'Italian'},
+    # 'fr': {'flag': 'fr', 'name': 'French'},
     'zh': {'flag': 'cn', 'name': 'Chinese'},
-    'ja': {'flag': 'jp', 'name': 'Japanese'},
+    # 'ja': {'flag': 'jp', 'name': 'Japanese'},
 }
 # ---------------------------------------------------
 # Image and file configuration

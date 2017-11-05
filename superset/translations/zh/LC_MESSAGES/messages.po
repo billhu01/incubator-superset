@@ -462,19 +462,19 @@ msgstr ""
 
 #: superset/assets/javascripts/SqlLab/components/CopyQueryTabUrl.jsx:30
 msgid "share query"
-msgstr ""
+msgstr "共享查询"
 
 #: superset/assets/javascripts/SqlLab/components/CopyQueryTabUrl.jsx:33
 msgid "copy URL to clipboard"
-msgstr ""
+msgstr "将URL复制到剪贴板"
 
 #: superset/assets/javascripts/SqlLab/components/HighlightedSql.jsx:61
 msgid "Raw SQL"
-msgstr ""
+msgstr "原始SQL"
 
 #: superset/assets/javascripts/SqlLab/components/HighlightedSql.jsx:71
 msgid "Source SQL"
-msgstr ""
+msgstr "源SQL"
 
 #: superset/assets/javascripts/SqlLab/components/HighlightedSql.jsx:83
 #: superset/assets/javascripts/explore/stores/visTypes.js:40
@@ -483,61 +483,61 @@ msgstr ""
 
 #: superset/assets/javascripts/SqlLab/components/QueryHistory.jsx:28
 msgid "No query history yet..."
-msgstr ""
+msgstr "没有查询记录..."
 
 #: superset/assets/javascripts/SqlLab/components/QuerySearch.jsx:106
 #: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:66
 msgid "It seems you don't have access to any database"
-msgstr ""
+msgstr "您没有访问任何数据库"
 
 #: superset/assets/javascripts/SqlLab/components/QuerySearch.jsx:154
 #: superset/assets/javascripts/SqlLab/components/ResultSet.jsx:89
 msgid "Search Results"
-msgstr ""
+msgstr "搜索结果"
 
 #: superset/assets/javascripts/SqlLab/components/QuerySearch.jsx:160
 msgid "[From]-"
-msgstr ""
+msgstr "[开始日期]-"
 
 #: superset/assets/javascripts/SqlLab/components/QuerySearch.jsx:170
 msgid "[To]-"
-msgstr ""
+msgstr "[截至日期]-"
 
 #: superset/assets/javascripts/SqlLab/components/QuerySearch.jsx:179
 msgid "[Query Status]"
-msgstr ""
+msgstr "[查询状态]"
 
 #: superset/assets/javascripts/SqlLab/components/QuerySearch.jsx:188
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #: superset/assets/javascripts/SqlLab/components/QueryTable.jsx:114
 msgid "Open in SQL Editor"
-msgstr ""
+msgstr "在SQL编辑器中打开"
 
 #: superset/assets/javascripts/SqlLab/components/QueryTable.jsx:133
 msgid "view results"
-msgstr ""
+msgstr "查看结果"
 
 #: superset/assets/javascripts/SqlLab/components/QueryTable.jsx:136
 msgid "Data preview"
-msgstr ""
+msgstr "预览数据"
 
 #: superset/assets/javascripts/SqlLab/components/QueryTable.jsx:176
 msgid "Visualize the data out of this query"
-msgstr ""
+msgstr "可视化此查询中的数据"
 
 #: superset/assets/javascripts/SqlLab/components/QueryTable.jsx:182
 msgid "Overwrite text in editor with a query on this table"
-msgstr ""
+msgstr "使用此表上的查询覆盖编辑器中的文本"
 
 #: superset/assets/javascripts/SqlLab/components/QueryTable.jsx:188
 msgid "Run query in a new tab"
-msgstr ""
+msgstr "在新标签中运行查询"
 
 #: superset/assets/javascripts/SqlLab/components/QueryTable.jsx:193
 msgid "Remove query from log"
-msgstr ""
+msgstr "从日志中删除查询"
 
 #: superset/assets/javascripts/SqlLab/components/ResultSet.jsx:67
 msgid ".CSV"
@@ -581,7 +581,7 @@ msgstr ""
 
 #: superset/assets/javascripts/SqlLab/components/RunQueryActionButton.jsx:19
 msgid "Run Query"
-msgstr ""
+msgstr "运行查询"
 
 #: superset/assets/javascripts/SqlLab/components/RunQueryActionButton.jsx:22
 msgid "Run query asynchronously"
@@ -629,24 +629,24 @@ msgstr "取消"
 
 #: superset/assets/javascripts/SqlLab/components/SaveQuery.jsx:123
 msgid "Save Query"
-msgstr ""
+msgstr "保存查询"
 
 #: superset/assets/javascripts/SqlLab/components/SouthPane.jsx:52
 msgid "Run a query to display results here"
-msgstr ""
+msgstr "运行查询以在此显示结果"
 
 #: superset/assets/javascripts/SqlLab/components/SouthPane.jsx:57
 #, python-format
 msgid "Preview for %s"
-msgstr ""
+msgstr "预览 %s"
 
 #: superset/assets/javascripts/SqlLab/components/SouthPane.jsx:81
 msgid "Results"
-msgstr ""
+msgstr "数据集"
 
 #: superset/assets/javascripts/SqlLab/components/SouthPane.jsx:87
 msgid "Query History"
-msgstr ""
+msgstr "历史查询纪录"
 
 #: superset/assets/javascripts/SqlLab/components/SqlEditor.jsx:123
 msgid "Create table as with query results"
@@ -709,36 +709,36 @@ msgstr ""
 
 #: superset/assets/javascripts/SqlLab/components/TabbedSqlEditors.jsx:170
 msgid "close tab"
-msgstr ""
+msgstr "关闭标签"
 
 #: superset/assets/javascripts/SqlLab/components/TabbedSqlEditors.jsx:173
 msgid "rename tab"
-msgstr ""
+msgstr "重命名标签"
 
 #: superset/assets/javascripts/SqlLab/components/TabbedSqlEditors.jsx:181
 msgid "expand tool bar"
-msgstr ""
+msgstr "展开工具栏"
 
 #: superset/assets/javascripts/SqlLab/components/TabbedSqlEditors.jsx:181
 msgid "hide tool bar"
-msgstr ""
+msgstr "隐藏工具栏"
 
 #: superset/assets/javascripts/SqlLab/components/TableElement.jsx:75
 msgid "Copy partition query to clipboard"
-msgstr ""
+msgstr "将分区查询复制到剪贴板"
 
 #: superset/assets/javascripts/SqlLab/components/TableElement.jsx:94
 msgid "latest partition:"
-msgstr ""
+msgstr "最新的分区:"
 
 #: superset/assets/javascripts/SqlLab/components/TableElement.jsx:110
 msgid "Keys for table"
-msgstr ""
+msgstr "键表"
 
 #: superset/assets/javascripts/SqlLab/components/TableElement.jsx:119
 #, python-format
 msgid "View keys & indexes (%s)"
-msgstr ""
+msgstr "查看键和索引 (%s)"
 
 #: superset/assets/javascripts/SqlLab/components/TableElement.jsx:135
 msgid "Sort columns alphabetically"
@@ -779,24 +779,24 @@ msgstr ""
 
 #: superset/assets/javascripts/SqlLab/components/VisualizeModal.jsx:248
 msgid "Chart Type"
-msgstr ""
+msgstr "图表类型"
 
 #: superset/assets/javascripts/SqlLab/components/VisualizeModal.jsx:251
 msgid "[Chart Type]"
-msgstr ""
+msgstr "[图表类型]"
 
 #: superset/assets/javascripts/SqlLab/components/VisualizeModal.jsx:259
 msgid "Datasource Name"
-msgstr ""
+msgstr "数据源名称"
 
 #: superset/assets/javascripts/SqlLab/components/VisualizeModal.jsx:263
 msgid "datasource name"
-msgstr ""
+msgstr "数据源名称"
 
 #: superset/assets/javascripts/components/AsyncSelect.jsx:23
 #: superset/assets/javascripts/explore/components/controls/SelectAsyncControl.jsx:26
 msgid "Select ..."
-msgstr ""
+msgstr "选择 ..."
 
 #: superset/assets/javascripts/components/CachedLabel.jsx:26
 msgid "Loaded data cached"
@@ -1299,7 +1299,7 @@ msgstr ""
 #: superset/assets/javascripts/explore/stores/controls.jsx:125
 #: superset/views/annotations.py:47
 msgid "Annotation Layers"
-msgstr ""
+msgstr "注释层"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:127
 msgid "Annotation layers to overlay on the visualization"
@@ -2952,7 +2952,7 @@ msgstr "Druid数据源"
 
 #: superset/connectors/druid/views.py:312
 msgid "Scan New Datasources"
-msgstr ""
+msgstr "扫描新数据源"
 
 #: superset/connectors/druid/views.py:320
 msgid "Refresh Druid Metadata"
@@ -3115,7 +3115,7 @@ msgstr "偏移"
 
 #: superset/connectors/sqla/views.py:223
 msgid "Table Name"
-msgstr ""
+msgstr "表名"
 
 #: superset/connectors/sqla/views.py:224
 msgid "Fetch Values Predicate"

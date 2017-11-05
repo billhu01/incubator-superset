@@ -299,6 +299,7 @@ def json_iso_dttm_ser(obj):
     elif isinstance(obj, time):
         obj = obj.isoformat()
     else:
+        print("this is bill test")
         raise TypeError(
             "Unserializable object {} of type {}".format(obj, type(obj)))
     return obj
@@ -325,6 +326,8 @@ def json_int_dttm_ser(obj):
     elif isinstance(obj, date):
         obj = (obj - EPOCH.date()).total_seconds() * 1000
     else:
+        print("bill test type :")
+        print(obj)
         raise TypeError(
             "Unserializable object {} of type {}".format(obj, type(obj)))
     return obj

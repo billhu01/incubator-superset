@@ -1,39 +1,34 @@
-*.pyc
-yarn-error.log
 _modules
-superset/assets/coverage/*
+superset/assets/node_modules
+superset/assets/dist
 changelog.sh
 .DS_Store
 .coverage
-_build
 _static
-_images
-_modules
-superset/bin/supersetc
-env_py3
 .eggs
 build
-*.db
-tmp
-superset_config.py
-local_config.py
-env
 dist
 superset.egg-info/
 app.db
 *.bak
 .idea
-*.sqllite
-.vscode
-.python-version
 
 # Node.js, webpack artifacts
 *.entry.js
-*.js.map
-node_modules
-npm-debug.log
 yarn.lock
 superset/assets/version_info.json
 
 # IntelliJ
 *.iml
+superset/app/
+superset/__pycache__/
+superset/connectors/__pycache__/
+superset/connectors/base/__pycache__/
+superset/connectors/druid/__pycache__/
+superset/connectors/sqla/__pycache__/
+superset/data/__pycache__/
+superset/migrations/__pycache__/
+superset/migrations/versions/__pycache__/
+superset/models/__pycache__/
+superset/translations/__pycache__/
+superset/views/__pycache__/
