@@ -453,7 +453,7 @@ msgstr ""
 #: superset/assets/javascripts/SqlLab/components/QueryTable.jsx:49
 #: superset/assets/javascripts/SqlLab/reducers.js:11
 msgid "Untitled Query"
-msgstr ""
+msgstr "无标题的查询"
 
 #: superset/assets/javascripts/SqlLab/reducers.js:44
 #, python-format
@@ -650,62 +650,62 @@ msgstr "历史查询纪录"
 
 #: superset/assets/javascripts/SqlLab/components/SqlEditor.jsx:123
 msgid "Create table as with query results"
-msgstr ""
+msgstr "使用查询结果创建表"
 
 #: superset/assets/javascripts/SqlLab/components/SqlEditor.jsx:131
 msgid "new table name"
-msgstr ""
+msgstr "新表名"
 
 #: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:90
 msgid "Error while fetching table list"
-msgstr ""
+msgstr "获取表列表时出错"
 
 #: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:131
 msgid "Error while fetching schema list"
-msgstr ""
+msgstr "获取模式列表时出错"
 
 #: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:153
 msgid "Error while fetching database list"
-msgstr ""
+msgstr "获取数据库列表时出错"
 
 #: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:159
 msgid "Database:"
-msgstr ""
+msgstr "数据库:"
 
 #: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:163
 msgid "Select a database"
-msgstr ""
+msgstr "选择一个数据库"
 
 #: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:170
 #, python-format
 msgid "Select a schema (%s)"
-msgstr ""
+msgstr "选择一个模式 %s"
 
 #: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:175
 msgid "Schema:"
-msgstr ""
+msgstr "模式"
 
 #: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:190
 #, python-format
 msgid "Add a table (%s)"
-msgstr ""
+msgstr "添加一个表 %s"
 
 #: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:203
 msgid "Type to search ..."
-msgstr ""
+msgstr "类型搜索 ..."
 
 #: superset/assets/javascripts/SqlLab/components/SqlEditorLeftBar.jsx:226
 msgid "Reset State"
-msgstr ""
+msgstr "重置状态"
 
 #: superset/assets/javascripts/SqlLab/components/TabbedSqlEditors.jsx:105
 msgid "Enter a new title for the tab"
-msgstr ""
+msgstr "输入标签的新标题"
 
 #: superset/assets/javascripts/SqlLab/components/TabbedSqlEditors.jsx:124
 #, python-format
 msgid "Untitled Query %s"
-msgstr ""
+msgstr "无标题的查询 %s"
 
 #: superset/assets/javascripts/SqlLab/components/TabbedSqlEditors.jsx:170
 msgid "close tab"
@@ -742,40 +742,40 @@ msgstr "查看键和索引 (%s)"
 
 #: superset/assets/javascripts/SqlLab/components/TableElement.jsx:135
 msgid "Sort columns alphabetically"
-msgstr ""
+msgstr "按字母顺序排列列"
 
 #: superset/assets/javascripts/SqlLab/components/TableElement.jsx:136
 msgid "Original table column order"
-msgstr ""
+msgstr "原始表列顺序"
 
 #: superset/assets/javascripts/SqlLab/components/TableElement.jsx:146
 msgid "Copy SELECT statement to clipboard"
-msgstr ""
+msgstr "将查询语句复制到剪贴板"
 
 #: superset/assets/javascripts/SqlLab/components/TableElement.jsx:152
 msgid "Remove table preview"
-msgstr ""
+msgstr "删除表预览"
 
 #: superset/assets/javascripts/SqlLab/components/VisualizeModal.jsx:90
 #, python-format
 msgid "%s is not right as a column name, please alias it (as in SELECT count(*) "
-msgstr ""
+msgstr "%s 作为列名不正确，请换别的列名(如在SELECT count(*)中查询)"
 
 #: superset/assets/javascripts/SqlLab/components/VisualizeModal.jsx:91
 msgid "AS my_alias"
-msgstr ""
+msgstr "作为我别的名字"
 
 #: superset/assets/javascripts/SqlLab/components/VisualizeModal.jsx:91
 msgid "using only alphanumeric characters and underscores"
-msgstr ""
+msgstr "仅使用字母数字和下划线"
 
 #: superset/assets/javascripts/SqlLab/components/VisualizeModal.jsx:166
 msgid "Creating a data source and popping a new tab"
-msgstr ""
+msgstr "创建数据源并弹出新标签"
 
 #: superset/assets/javascripts/SqlLab/components/VisualizeModal.jsx:196
 msgid "No results available for this query"
-msgstr ""
+msgstr "此查询没有可用的结果"
 
 #: superset/assets/javascripts/SqlLab/components/VisualizeModal.jsx:248
 msgid "Chart Type"
@@ -800,33 +800,33 @@ msgstr "选择 ..."
 
 #: superset/assets/javascripts/components/CachedLabel.jsx:26
 msgid "Loaded data cached"
-msgstr ""
+msgstr "加载数据缓存"
 
 #: superset/assets/javascripts/components/CachedLabel.jsx:29
 msgid "Loaded from cache"
-msgstr ""
+msgstr "从缓存加载"
 
 #: superset/assets/javascripts/components/CachedLabel.jsx:33
 msgid "Click to force-refresh"
-msgstr ""
+msgstr "点击强制刷新"
 
 #: superset/assets/javascripts/components/CopyToClipboard.jsx:21
 #: superset/assets/javascripts/explore/components/EmbedCodeButton.jsx:67
 #: superset/assets/javascripts/explore/components/URLShortLinkButton.jsx:37
 msgid "Copy to clipboard"
-msgstr ""
+msgstr "复制到剪贴板"
 
 #: superset/assets/javascripts/components/CopyToClipboard.jsx:65
 msgid "Not successful"
-msgstr ""
+msgstr "不成功"
 
 #: superset/assets/javascripts/components/CopyToClipboard.jsx:68
 msgid "Sorry, your browser does not support copying. Use Ctrl / Cmd + C!"
-msgstr ""
+msgstr "对不起，您的浏览器不支持复制。使用Ctrl/Cmd + C!"
 
 #: superset/assets/javascripts/components/CopyToClipboard.jsx:79
 msgid "Copied!"
-msgstr ""
+msgstr "复制!"
 
 #: superset/assets/javascripts/components/EditableTitle.jsx:13
 #: superset/views/core.py:475 superset/views/core.py:542
@@ -835,73 +835,73 @@ msgstr "标题"
 
 #: superset/assets/javascripts/components/EditableTitle.jsx:92
 msgid "click to edit title"
-msgstr ""
+msgstr "点击编辑标题"
 
 #: superset/assets/javascripts/components/EditableTitle.jsx:93
 msgid "You don't have the rights to alter this title."
-msgstr ""
+msgstr "你没有权限修改这个标题."
 
 #: superset/assets/javascripts/components/FaveStar.jsx:32
 #: superset/assets/javascripts/modules/superset.js:33
 msgid "Click to favorite/unfavorite"
-msgstr ""
+msgstr "点击收藏/取消收藏"
 
 #: superset/assets/javascripts/dashboard/Dashboard.jsx:42
 #: superset/assets/javascripts/dashboard/Dashboard.jsx:59
 msgid "You have unsaved changes."
-msgstr ""
+msgstr "您有未保存的更改。"
 
 #: superset/assets/javascripts/dashboard/Dashboard.jsx:59
 msgid "Click the"
-msgstr ""
+msgstr "点击"
 
 #: superset/assets/javascripts/dashboard/Dashboard.jsx:61
 msgid "button on the top right to save your changes."
-msgstr ""
+msgstr "右上角的按钮保存更改。"
 
 #: superset/assets/javascripts/dashboard/Dashboard.jsx:164
 #, python-format
 msgid "Served from data cached %s . Click to force refresh."
-msgstr ""
+msgstr "服务于数据缓存 %s .点击强制刷新."
 
 #: superset/assets/javascripts/dashboard/Dashboard.jsx:169
 msgid "Click to force refresh"
-msgstr ""
+msgstr "点击强制刷新"
 
 #: superset/assets/javascripts/dashboard/Dashboard.jsx:353
 #: superset/assets/javascripts/dashboard/components/SaveModal.jsx:100
 msgid "Error"
-msgstr ""
+msgstr "错误"
 
 #: superset/assets/javascripts/dashboard/Dashboard.jsx:354
 #, python-format
 msgid "Sorry, there was an error adding slices to this dashboard: %s"
-msgstr ""
+msgstr "抱歉，在仪表盘: %s 上添加切片出错"
 
 #: superset/assets/javascripts/dashboard/components/CodeModal.jsx:35
 msgid "Active Dashboard Filters"
-msgstr ""
+msgstr "仪表盘过滤器"
 
 #: superset/assets/javascripts/dashboard/components/Controls.jsx:48
 #, python-format
 msgid "Checkout this dashboard: %s"
-msgstr ""
+msgstr "查看仪表盘: %s"
 
 #: superset/assets/javascripts/dashboard/components/Controls.jsx:54
 msgid "Force refresh the whole dashboard"
-msgstr ""
+msgstr "强制刷新整个仪表盘"
 
 #: superset/assets/javascripts/dashboard/components/Controls.jsx:94
 msgid "Edit this dashboard's properties"
-msgstr ""
+msgstr "编辑仪表盘的属性"
 
 #: superset/assets/javascripts/dashboard/components/CssEditor.jsx:65
 msgid "Load a template"
-msgstr ""
+msgstr "加载一个模板"
 
 #: superset/assets/javascripts/dashboard/components/CssEditor.jsx:68
 msgid "Load a CSS template"
-msgstr ""
+msgstr "加载一个CSS模板"
 
 #: superset/assets/javascripts/dashboard/components/CssEditor.jsx:80
 #: superset/views/core.py:482
@@ -910,65 +910,65 @@ msgstr "CSS"
 
 #: superset/assets/javascripts/dashboard/components/CssEditor.jsx:86
 msgid "Live CSS Editor"
-msgstr ""
+msgstr "实时CSS编辑器"
 
 #: superset/assets/javascripts/dashboard/components/RefreshIntervalModal.jsx:19
 msgid "Don't refresh"
-msgstr ""
+msgstr "不刷新"
 
 #: superset/assets/javascripts/dashboard/components/RefreshIntervalModal.jsx:20
 msgid "10 seconds"
-msgstr ""
+msgstr "10秒"
 
 #: superset/assets/javascripts/dashboard/components/RefreshIntervalModal.jsx:21
 msgid "30 seconds"
-msgstr ""
+msgstr "30秒"
 
 #: superset/assets/javascripts/dashboard/components/RefreshIntervalModal.jsx:22
 msgid "1 minute"
-msgstr ""
+msgstr "1分钟"
 
 #: superset/assets/javascripts/dashboard/components/RefreshIntervalModal.jsx:23
 msgid "5 minutes"
-msgstr ""
+msgstr "5分钟"
 
 #: superset/assets/javascripts/dashboard/components/RefreshIntervalModal.jsx:38
 msgid "Refresh Interval"
-msgstr ""
+msgstr "刷新间隔"
 
 #: superset/assets/javascripts/dashboard/components/RefreshIntervalModal.jsx:41
 msgid "Choose the refresh frequency for this dashboard"
-msgstr ""
+msgstr "选择仪表盘的刷新频率"
 
 #: superset/assets/javascripts/dashboard/components/SaveModal.jsx:63
 msgid "This dashboard was saved successfully."
-msgstr ""
+msgstr "成功保存此仪表盘。"
 
 #: superset/assets/javascripts/dashboard/components/SaveModal.jsx:69
 msgid "Sorry, there was an error saving this dashboard: "
-msgstr ""
+msgstr "对不起，这个仪表盘有一个错误保存:"
 
 #: superset/assets/javascripts/dashboard/components/SaveModal.jsx:101
 msgid "You must pick a name for the new dashboard"
-msgstr ""
+msgstr "您必须为新的仪表盘选择一个名称"
 
 #: superset/assets/javascripts/dashboard/components/SaveModal.jsx:115
 msgid "Save Dashboard"
-msgstr ""
+msgstr "保存仪表盘"
 
 #: superset/assets/javascripts/dashboard/components/SaveModal.jsx:123
 #, python-format
 msgid "Overwrite Dashboard [%s]"
-msgstr ""
+msgstr "覆盖仪表盘 [%s]"
 
 #: superset/assets/javascripts/dashboard/components/SaveModal.jsx:131
 msgid "Save as:"
-msgstr ""
+msgstr "保存为:"
 
 #: superset/assets/javascripts/dashboard/components/SaveModal.jsx:135
 #: superset/assets/javascripts/explore/components/SaveModal.jsx:210
 msgid "[dashboard name]"
-msgstr ""
+msgstr "[仪表盘名称]"
 
 #: superset/assets/javascripts/dashboard/components/SliceAdder.jsx:142
 #: superset/views/core.py:379
@@ -977,7 +977,7 @@ msgstr "名字"
 
 #: superset/assets/javascripts/dashboard/components/SliceAdder.jsx:148
 msgid "Viz"
-msgstr ""
+msgstr "Viz"
 
 #: superset/assets/javascripts/dashboard/components/SliceAdder.jsx:157
 #: superset/views/core.py:480 superset/views/core.py:544
@@ -987,56 +987,56 @@ msgstr "已修改"
 
 #: superset/assets/javascripts/dashboard/components/SliceAdder.jsx:167
 msgid "Add Slices"
-msgstr ""
+msgstr "添加切片"
 
 #: superset/assets/javascripts/dashboard/components/SliceAdder.jsx:176
 msgid "Add a new slice to the dashboard"
-msgstr ""
+msgstr "向仪表盘添加一个新的切片"
 
 #: superset/assets/javascripts/dashboard/components/SliceAdder.jsx:181
 msgid "Add Slices to Dashboard"
-msgstr ""
+msgstr "添加切片到仪表盘"
 
 #: superset/assets/javascripts/dashboard/components/SliceCell.jsx:37
 msgid "Move chart"
-msgstr ""
+msgstr "移动图表"
 
 #: superset/assets/javascripts/dashboard/components/SliceCell.jsx:40
 msgid "Force refresh data"
-msgstr ""
+msgstr "强制刷新数据"
 
 #: superset/assets/javascripts/dashboard/components/SliceCell.jsx:44
 msgid "Toggle chart description"
-msgstr ""
+msgstr "是否显示图表描述"
 
 #: superset/assets/javascripts/dashboard/components/SliceCell.jsx:54
 msgid "Edit chart"
-msgstr ""
+msgstr "编辑图表"
 
 #: superset/assets/javascripts/dashboard/components/SliceCell.jsx:62
 msgid "Export CSV"
-msgstr ""
+msgstr "导出CSV"
 
 #: superset/assets/javascripts/dashboard/components/SliceCell.jsx:70
 msgid "Explore chart"
-msgstr ""
+msgstr "检索图表"
 
 #: superset/assets/javascripts/dashboard/components/SliceCell.jsx:77
 msgid "Remove chart from dashboard"
-msgstr ""
+msgstr "从仪表盘删除图表"
 
 #: superset/assets/javascripts/explore/components/ChartContainer.jsx:180
 #, python-format
 msgid "%s - untitled"
-msgstr ""
+msgstr "%s - 无标题"
 
 #: superset/assets/javascripts/explore/components/ChartContainer.jsx:287
 msgid "Edit slice properties"
-msgstr ""
+msgstr "编辑切片属性"
 
 #: superset/assets/javascripts/explore/components/ControlHeader.jsx:32
 msgid "description"
-msgstr ""
+msgstr "描述"
 
 #: superset/assets/javascripts/explore/components/ControlHeader.jsx:42
 msgid "bolt"
@@ -1044,7 +1044,7 @@ msgstr ""
 
 #: superset/assets/javascripts/explore/components/DisplayQueryButton.jsx:61
 msgid "Error..."
-msgstr ""
+msgstr "错误..."
 
 #: superset/assets/javascripts/explore/components/DisplayQueryButton.jsx:97
 #: superset/assets/javascripts/explore/stores/visTypes.js:56
@@ -1070,81 +1070,81 @@ msgstr ""
 #: superset/assets/javascripts/explore/stores/visTypes.js:946
 #: superset/assets/javascripts/explore/stores/visTypes.js:1005
 msgid "Query"
-msgstr ""
+msgstr "查询"
 
 #: superset/assets/javascripts/explore/components/EmbedCodeButton.jsx:76
 msgid "Height"
-msgstr ""
+msgstr "高度"
 
 #: superset/assets/javascripts/explore/components/EmbedCodeButton.jsx:90
 msgid "Width"
-msgstr ""
+msgstr "宽度"
 
 #: superset/assets/javascripts/explore/components/ExploreActionButtons.jsx:32
 msgid "Export to .json"
-msgstr ""
+msgstr "导出为.json格式"
 
 #: superset/assets/javascripts/explore/components/ExploreActionButtons.jsx:42
 msgid "Export to .csv format"
-msgstr ""
+msgstr "导出为.csv格式"
 
 #: superset/assets/javascripts/explore/components/SaveModal.jsx:74
 msgid "Please enter a slice name"
-msgstr ""
+msgstr "请输入切片名称"
 
 #: superset/assets/javascripts/explore/components/SaveModal.jsx:89
 msgid "Please select a dashboard"
-msgstr ""
+msgstr "请选择一个仪表盘"
 
 #: superset/assets/javascripts/explore/components/SaveModal.jsx:97
 msgid "Please enter a dashboard name"
-msgstr ""
+msgstr "请输入仪表盘名称"
 
 #: superset/assets/javascripts/explore/components/SaveModal.jsx:134
 msgid "Save A Slice"
-msgstr ""
+msgstr "保存一个切片"
 
 #: superset/assets/javascripts/explore/components/SaveModal.jsx:155
 #, python-format
 msgid "Overwrite slice %s"
-msgstr ""
+msgstr "覆盖切片 %s"
 
 #: superset/assets/javascripts/explore/components/SaveModal.jsx:164
 msgid "Save as"
-msgstr ""
+msgstr "另存为"
 
 #: superset/assets/javascripts/explore/components/SaveModal.jsx:168
 msgid "[slice name]"
-msgstr ""
+msgstr "[切片名称]"
 
 #: superset/assets/javascripts/explore/components/SaveModal.jsx:181
 msgid "Do not add to a dashboard"
-msgstr ""
+msgstr "不要添加到仪表盘"
 
 #: superset/assets/javascripts/explore/components/SaveModal.jsx:189
 msgid "Add slice to existing dashboard"
-msgstr ""
+msgstr "将切片添加到现有仪表盘"
 
 #: superset/assets/javascripts/explore/components/SaveModal.jsx:205
 msgid "Add to new dashboard"
-msgstr ""
+msgstr "添加到新的仪表盘"
 
 #: superset/assets/javascripts/explore/components/SaveModal.jsx:231
 msgid "Save & go to dashboard"
-msgstr ""
+msgstr "保存并转到仪表盘"
 
 #: superset/assets/javascripts/explore/components/URLShortLinkButton.jsx:32
 #, python-format
 msgid "Check out this slice: %s"
-msgstr ""
+msgstr "查看切片: %s"
 
 #: superset/assets/javascripts/explore/components/controls/BoundsControl.jsx:55
 msgid "`Min` value should be numeric or empty"
-msgstr ""
+msgstr "最小值应该是数字或空"
 
 #: superset/assets/javascripts/explore/components/controls/BoundsControl.jsx:58
 msgid "`Max` value should be numeric or empty"
-msgstr ""
+msgstr "最大值应该是数字或空"
 
 #: superset/assets/javascripts/explore/components/controls/BoundsControl.jsx:75
 #: superset/connectors/druid/views.py:50 superset/connectors/sqla/views.py:88
@@ -1175,23 +1175,23 @@ msgstr ""
 #: superset/assets/javascripts/explore/components/controls/DatasourceControl.jsx:132
 #: superset/assets/javascripts/explore/components/controls/VizTypeControl.jsx:120
 msgid "Search / Filter"
-msgstr ""
+msgstr "搜索/过滤"
 
 #: superset/assets/javascripts/explore/components/controls/Filter.jsx:114
 msgid "Filter value"
-msgstr ""
+msgstr "过滤值"
 
 #: superset/assets/javascripts/explore/components/controls/Filter.jsx:143
 msgid "Select metric"
-msgstr ""
+msgstr "选择指标"
 
 #: superset/assets/javascripts/explore/components/controls/Filter.jsx:143
 msgid "Select column"
-msgstr ""
+msgstr "选择过滤字段"
 
 #: superset/assets/javascripts/explore/components/controls/Filter.jsx:155
 msgid "Select operator"
-msgstr ""
+msgstr "选择过滤方式"
 
 #: superset/assets/javascripts/explore/components/controls/FilterControl.jsx:138
 #: superset/templates/appbuilder/general/widgets/search.html:6
@@ -1200,38 +1200,38 @@ msgstr "增加过滤条件"
 
 #: superset/assets/javascripts/explore/components/controls/SelectAsyncControl.jsx:24
 msgid "Error while fetching data"
-msgstr ""
+msgstr "获取数据库列表时出错"
 
 #: superset/assets/javascripts/explore/components/controls/SelectControl.jsx:106
 #, python-format
 msgid "Select %s"
-msgstr ""
+msgstr "查询 %s"
 
 #: superset/assets/javascripts/explore/components/controls/TextAreaControl.jsx:63
 msgid "textarea"
-msgstr ""
+msgstr "文本区域"
 
 #: superset/assets/javascripts/explore/components/controls/TextAreaControl.jsx:81
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 #: superset/assets/javascripts/explore/components/controls/TextAreaControl.jsx:81
 msgid "in modal"
-msgstr ""
+msgstr "在模型中"
 
 #: superset/assets/javascripts/explore/components/controls/VizTypeControl.jsx:110
 msgid "Select a visualization type"
-msgstr ""
+msgstr "选择可视化类型"
 
 #: superset/assets/javascripts/explore/reducers/chartReducer.js:32
 msgid "Updating chart was stopped"
-msgstr ""
+msgstr "更新图表已停止"
 
 #: superset/assets/javascripts/explore/reducers/chartReducer.js:38
 #: superset/assets/javascripts/modules/superset.js:223
 #, python-format
 msgid "An error occurred while rendering the visualization: %s"
-msgstr ""
+msgstr "在呈现可视化时发生了一个错误: %s"
 
 #: superset/assets/javascripts/explore/reducers/chartReducer.js:47
 msgid ""
@@ -1239,11 +1239,11 @@ msgid ""
 "are simply querying a data source that is to large to be processed within"
 " the timeout range. If that is the case, we recommend that you summarize "
 "your data further."
-msgstr ""
+msgstr "也许您的数据增长，您的数据库处于异常负载状态，或者您在超时范围内要查询处理的数据过大。如果是这样，我们建议您进一步整理您的数据。"
 
 #: superset/assets/javascripts/explore/reducers/chartReducer.js:56
 msgid "Network error."
-msgstr ""
+msgstr "网络错误。"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:36
 msgid "A reference to the [Time] configuration, taking granularity into account"
@@ -1251,11 +1251,11 @@ msgstr ""
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:50
 msgid "Group by"
-msgstr ""
+msgstr "分组"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:53
 msgid "One or many controls to group by"
-msgstr ""
+msgstr "根据一个或多个字段分组"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:72
 #: superset/connectors/druid/views.py:45 superset/views/core.py:318
@@ -1270,16 +1270,16 @@ msgstr "图表类型"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:84
 msgid "The type of visualization to display"
-msgstr ""
+msgstr "要显示的可视化类型"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:90
 msgid "Metrics"
-msgstr ""
+msgstr "指标"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:99
 #: superset/assets/javascripts/explore/stores/controls.jsx:116
 msgid "One or many metrics to display"
-msgstr ""
+msgstr "显示的一个或多个指标"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:103
 msgid "Y Axis Bounds"
@@ -1290,11 +1290,11 @@ msgid ""
 "Bounds for the Y axis. When left empty, the bounds are dynamically "
 "defined based on the min/max of the data. Note that this feature will "
 "only expand the axis range. It won't narrow the data's extent."
-msgstr ""
+msgstr "Y轴的边界。当左侧空时，根据数据的min / max动态定义边界。注意，这个特性只会扩展轴的范围。它不会缩小数据的范围"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:114
 msgid "Ordering"
-msgstr ""
+msgstr "排序"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:125
 #: superset/views/annotations.py:47
@@ -1321,83 +1321,83 @@ msgstr "度量"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:143
 msgid "Choose the metric"
-msgstr ""
+msgstr "选择指标"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:156
 msgid "Right Axis Metric"
-msgstr ""
+msgstr "右轴指制"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:160
 msgid "Choose a metric for right axis"
-msgstr ""
+msgstr "为右轴选择一个指标"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:171
 msgid "Stacked Style"
-msgstr ""
+msgstr "堆叠样式"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:199
 msgid "Linear Color Scheme"
-msgstr ""
+msgstr "线性颜色方案"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:216
 msgid "Normalize Across"
-msgstr ""
+msgstr "标准化"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:223
 msgid ""
 "Color will be rendered based on a ratio of the cell against the sum of "
 "across this criteria"
-msgstr ""
+msgstr "颜色将根据比例进行渲染"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:230
 msgid "Horizon Color Scale"
-msgstr ""
+msgstr "地平线色标"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:237
 msgid "Defines how the color are attributed."
-msgstr ""
+msgstr "定义颜色的属性"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:242
 msgid "Rendering"
-msgstr ""
+msgstr "渲染"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:249
 msgid ""
 "image-rendering CSS attribute of the canvas object that defines how the "
 "browser scales up the image"
-msgstr ""
+msgstr "浏览器渲染图片的方式"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:255
 msgid "XScale Interval"
-msgstr ""
+msgstr "X轴步长"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:258
 msgid "Number of steps to take between ticks when displaying the X scale"
-msgstr ""
+msgstr "X轴每个刻度的单位长度"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:264
 msgid "YScale Interval"
-msgstr ""
+msgstr "Y轴步长"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:267
 msgid "Number of steps to take between ticks when displaying the Y scale"
-msgstr ""
+msgstr "X轴每个刻度的单位长度"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:273
 msgid "Include Time"
-msgstr ""
+msgstr "包括时间"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:274
 msgid "Whether to include the time granularity as defined in the time section"
-msgstr ""
+msgstr "是否包含在时间段中定义的时间粒度"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:288
 msgid "Stacked Bars"
-msgstr ""
+msgstr "堆积"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:296
 msgid "Show totals"
-msgstr ""
+msgstr "显示标记"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:299
 msgid "Display total row/column"
@@ -1405,15 +1405,15 @@ msgstr ""
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:304
 msgid "Show Markers"
-msgstr ""
+msgstr "显示标记"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:307
 msgid "Show data points as circle markers on the lines"
-msgstr ""
+msgstr "将数据点显示为线上的圆圈标记"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:312
 msgid "Bar Values"
-msgstr ""
+msgstr "柱状图的值"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:315
 msgid "Show the value on top of the bar"
@@ -1421,11 +1421,11 @@ msgstr ""
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:320
 msgid "Sort Bars"
-msgstr ""
+msgstr "是否排序"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:322
 msgid "Sort bars by x labels."
-msgstr ""
+msgstr "根据X轴排序"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:327
 msgid "Combine Metrics"
@@ -1439,17 +1439,17 @@ msgstr ""
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:335
 msgid "Extra Controls"
-msgstr ""
+msgstr "扩展控件"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:338
 msgid ""
 "Whether to show extra controls or not. Extra controls include things like"
 " making mulitBar charts stacked or side by side."
-msgstr ""
+msgstr "是否显示扩展控件,扩展的控件可以使mulitBar图堆叠或并排。"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:345
 msgid "Reduce X ticks"
-msgstr ""
+msgstr "X轴自适应"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:348
 msgid ""
@@ -1457,27 +1457,27 @@ msgid ""
 "wont overflow and labels may be missing. If false, a minimum width will "
 "be applied to columns and the width may overflow into an horizontal "
 "scroll."
-msgstr ""
+msgstr "减少要渲染的X轴刻度的数量。 如果为真，则x轴不会溢出，标签可能会丢失。如果为false，则最小宽度将应用于列，并且宽度可能会溢出到水平滚动。"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:357
 msgid "Include Series"
-msgstr ""
+msgstr "显示项目"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:360
 msgid "Include series name as an axis"
-msgstr ""
+msgstr "坐标上显示项目名称"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:365
 msgid "Color Metric"
-msgstr ""
+msgstr "颜色度量"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:367
 msgid "A metric to use for color"
-msgstr ""
+msgstr "颜色度量项目"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:374
 msgid "Country Name"
-msgstr ""
+msgstr "国家名"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:393
 msgid "The name of country that Superset should display"
@@ -1496,7 +1496,7 @@ msgstr ""
 #: superset/assets/javascripts/explore/stores/controls.jsx:412
 #: superset/assets/javascripts/explore/stores/controls.jsx:419
 msgid "Columns"
-msgstr ""
+msgstr "列"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:413
 msgid "One or many controls to pivot as columns"
@@ -1506,17 +1506,17 @@ msgstr ""
 #: superset/assets/javascripts/explore/stores/controls.jsx:431
 #: superset/assets/javascripts/explore/stores/controls.jsx:441
 msgid "Columns to display"
-msgstr ""
+msgstr "显示列"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:450
 msgid "Origin"
-msgstr ""
+msgstr "起点"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:456
 msgid ""
 "Defines the origin where time buckets start, accepts natural dates as in "
 "`now`, `sunday` or `1970-01-01`"
-msgstr ""
+msgstr "定义时间起点，支持`now`, `sunday` 或 `1970-01-01`等"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:463
 msgid "Bottom Margin"
@@ -1524,7 +1524,7 @@ msgstr ""
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:467
 msgid "Bottom margin, in pixels, allowing for more room for axis labels"
-msgstr ""
+msgstr "底部留白的像素大小"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:473
 msgid "Left Margin"
@@ -1542,52 +1542,52 @@ msgstr ""
 msgid ""
 "The time granularity for the visualization. Note that you can type and "
 "use simple natural language as in `10 seconds`, `1 day` or `56 weeks`"
-msgstr ""
+msgstr "图表时间粒度。可以使用`10 seconds`, `1 day`, `56 weeks`等"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:507
 msgid "Domain"
-msgstr ""
+msgstr "区域"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:510
 msgid "The time unit used for the grouping of blocks"
-msgstr ""
+msgstr "每个区域表示的时间段"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:515
 msgid "Subdomain"
-msgstr ""
+msgstr "方块"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:518
 msgid ""
 "The time unit for each block. Should be a smaller unit than "
 "domain_granularity. Should be larger or equal to Time Grain"
-msgstr ""
+msgstr "每个区域内方块表示的时间段。必须比区域时间段小，比时间粒度大。"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:525
 msgid "Link Length"
-msgstr ""
+msgstr "链接长度"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:528
 msgid "Link length in the force layout"
-msgstr ""
+msgstr "有向图中的链接长度"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:534
 msgid "Charge"
-msgstr ""
+msgstr "缩放"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:548
 msgid "Charge in the force layout"
-msgstr ""
+msgstr "在有向图中缩放大小"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:556
 msgid ""
 "The time column for the visualization. Note that you can define arbitrary"
 " expression that return a DATETIME column in the table or. Also note that"
 " the filter below is applied against this column or expression"
-msgstr ""
+msgstr "图表中的时间字段。可以在表格编辑器中返回任意DATETIME列。另请注意，下面的过滤方式应用于此列或表达"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:568
 msgid "Time Grain"
-msgstr ""
+msgstr "时间粒度"
 
 #: superset/assets/javascripts/explore/stores/controls.jsx:570
 msgid ""
@@ -2638,27 +2638,27 @@ msgstr ""
 
 #: superset/assets/javascripts/profile/components/App.jsx:24
 msgid "Favorites"
-msgstr ""
+msgstr "收藏"
 
 #: superset/assets/javascripts/profile/components/App.jsx:30
 msgid "Created Content"
-msgstr ""
+msgstr "创建内容"
 
 #: superset/assets/javascripts/profile/components/App.jsx:37
 msgid "Recent Activity"
-msgstr ""
+msgstr "近期活动"
 
 #: superset/assets/javascripts/profile/components/App.jsx:42
 msgid "Security & Access"
-msgstr ""
+msgstr "安全 & 访问"
 
 #: superset/assets/javascripts/profile/components/CreatedContent.jsx:33
 msgid "No slices"
-msgstr ""
+msgstr "没有切片"
 
 #: superset/assets/javascripts/profile/components/CreatedContent.jsx:49
 msgid "No dashboards"
-msgstr ""
+msgstr "没有仪表盘"
 
 #: superset/assets/javascripts/profile/components/CreatedContent.jsx:58
 #: superset/assets/javascripts/profile/components/Favorites.jsx:59
@@ -2675,15 +2675,15 @@ msgstr "切片"
 
 #: superset/assets/javascripts/profile/components/Favorites.jsx:34
 msgid "No favorite slices yet, go click on stars!"
-msgstr ""
+msgstr "没有收藏的切片，去点击星星收藏！"
 
 #: superset/assets/javascripts/profile/components/Favorites.jsx:50
 msgid "No favorite dashboards yet, go click on stars!"
-msgstr ""
+msgstr "没有收藏的仪表盘，去点击星星收藏！"
 
 #: superset/assets/javascripts/profile/components/Security.jsx:14
 msgid "Roles"
-msgstr ""
+msgstr "角色"
 
 #: superset/assets/javascripts/profile/components/Security.jsx:23
 #: superset/views/core.py:284
@@ -2692,15 +2692,15 @@ msgstr "数据库"
 
 #: superset/assets/javascripts/profile/components/Security.jsx:34
 msgid "Datasources"
-msgstr ""
+msgstr "数据源"
 
 #: superset/assets/javascripts/profile/components/UserInfo.jsx:18
 msgid "Profile picture provided by Gravatar"
-msgstr ""
+msgstr "Gravatar提供的个人资料图片"
 
 #: superset/assets/javascripts/profile/components/UserInfo.jsx:33
 msgid "joined"
-msgstr ""
+msgstr "加入"
 
 #: superset/assets/javascripts/profile/components/UserInfo.jsx:43
 msgid "id:"
@@ -2708,12 +2708,12 @@ msgstr ""
 
 #: superset/assets/visualizations/EventFlow.jsx:56
 msgid "Sorry, there appears to be no data"
-msgstr ""
+msgstr "对不起，似乎没有数据"
 
 #: superset/assets/visualizations/filter_box.jsx:106
 #, python-format
 msgid "Select [%s]"
-msgstr ""
+msgstr "选择 [%s]"
 
 #: superset/connectors/druid/models.py:1073
 msgid "No data was returned."
@@ -3155,11 +3155,11 @@ msgstr "登录"
 
 #: superset/templates/appbuilder/general/widgets/base_list.html:37
 msgid "Record Count"
-msgstr ""
+msgstr "纪录数"
 
 #: superset/templates/appbuilder/general/widgets/base_list.html:46
 msgid "No records found"
-msgstr ""
+msgstr "没有数据"
 
 #: superset/templates/superset/import_dashboards.html:11
 msgid "Import"

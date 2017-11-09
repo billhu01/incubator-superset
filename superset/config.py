@@ -41,11 +41,11 @@ with open(PACKAGE_FILE) as package_file:
 
 ROW_LIMIT = 50000
 VIZ_ROW_LIMIT = 10000
-SUPERSET_WORKERS = 2
+SUPERSET_WORKERS = 4
 SUPERSET_CELERY_WORKERS = 32
 
 SUPERSET_WEBSERVER_ADDRESS = '0.0.0.0'
-SUPERSET_WEBSERVER_PORT = 8088
+SUPERSET_WEBSERVER_PORT = 9999
 SUPERSET_WEBSERVER_TIMEOUT = 60
 EMAIL_NOTIFICATIONS = False
 CUSTOM_SECURITY_MANAGER = None
@@ -56,9 +56,9 @@ SQLALCHEMY_TRACK_MODIFICATIONS = False
 SECRET_KEY = '\2\1thisismyscretkey\1\2\e\y\y\h'  # noqa
 
 # The SQLAlchemy connection string.
-SQLALCHEMY_DATABASE_URI = 'sqlite:///' + os.path.join(DATA_DIR, 'superset.db')
+#SQLALCHEMY_DATABASE_URI = 'sqlite:///' + os.path.join(DATA_DIR, 'superset.db')
 #SQLALCHEMY_DATABASE_URI = 'mysql://root:$Tart123@192.168.100.106:3306/superset'
-#SQLALCHEMY_DATABASE_URI = 'mysql://root:$Tart123@172.16.9.28:3306/superset'
+SQLALCHEMY_DATABASE_URI = 'mysql://root:$Tart123@172.16.9.28:3306/superset'
 # SQLALCHEMY_DATABASE_URI = 'postgresql://root:password@localhost/myapp'
 
 # In order to hook up a custom password store for all SQLACHEMY connections
@@ -93,10 +93,10 @@ ENABLE_PROXY_FIX = False
 # GLOBALS FOR APP Builder
 # ------------------------------
 # Uncomment to setup Your App name
-APP_NAME = "Superset"
+APP_NAME = "CIIC-BI"
 
 # Uncomment to setup an App icon
-APP_ICON = "/static/assets/images/logo.png"
+APP_ICON = "/static/assets/images/BI_logo.png"
 
 # Druid query timezone
 # tz.tzutc() : Using utc timezone

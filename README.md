@@ -194,3 +194,4 @@ the world know they are using Superset. Join our growing community!
  - [Yahoo!](https://yahoo.com/)
  - [Zalando](https://www.zalando.com)
 
+pybabel compile -D superset/translations -i superset/translations/zh/LC_MESSAGES/messages.po -o superset/translations/zh/LC_MESSAGES/messages.mo 
